@@ -1,0 +1,1 @@
+olá , esse projeto chama-se Awax, foi criado com HTML/CSS e já está totalmente responsivo e perfeito para todos os tipos de tela, por se tratar de um projeto de estudo suas imagens e layout podem possuir direitos autorais.
